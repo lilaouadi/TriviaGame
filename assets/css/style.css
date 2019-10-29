@@ -15,7 +15,7 @@ header, footer, section{
     text-align: center
 }
 header, footer{
-	background-color:red;
+	background-color: red;
 	height: 100px;
 }
 /* header */
@@ -33,12 +33,12 @@ ul{
 }
 /* main section */
 .main-section{
-    background-color: orange;
-    color:#fff;
+    background-color:olive;
+    color: #fff;
     opacity: 0.7;
 }
 button{
-	background-color: blue;
+	background-color: orange;
 	width: 20%;
 	height: 20px;
 	opacity: 1 !important;
