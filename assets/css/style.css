@@ -1,7 +1,7 @@
 body {
 	background: url("../images/question-marks.png");
-	font-size: 14px;
-	line-height: 34px;
+	font-size: 10px;
+	line-height:34px;
 	color: #0c4f23;
 }
 * {
@@ -33,7 +33,7 @@ ul{
 }
 /* main section */
 .main-section{
-    background-color:olive;
+    background-color:black;
     color: #fff;
     opacity: 0.7;
 }
@@ -64,5 +64,6 @@ footer{
 	clear: both;
 	padding: 20px;
 	font-style: bold;
+	font-size:20px;
 }
 
